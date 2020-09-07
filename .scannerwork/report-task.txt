@@ -2,5 +2,5 @@ projectKey=e2e-maven-insideproject
 serverUrl=http://localhost:9000
 serverVersion=7.5.0.20543
 dashboardUrl=http://localhost:9000/dashboard?id=e2e-maven-insideproject
-ceTaskId=AXRYjud1G7JSV6gBojyf
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXRYjud1G7JSV6gBojyf
+ceTaskId=AXRYoZXzG7JSV6gBojyi
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXRYoZXzG7JSV6gBojyi
